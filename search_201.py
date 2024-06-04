@@ -41,7 +41,7 @@ parser.add_argument("--exp_name", type=str, default='rank')
 parser.add_argument("--bench", type=str, default='201')
 parser.add_argument("--train_split", type=int, default=50)
 parser.add_argument("--num_c", type=int, default=50)
-parser.add_argument("--dataset", type=str, default='cifar10')
+parser.add_argument("--dataset", type=str, default='cifar10',choices=['cifar10','cifar100','imagenet16'])
 # training settings
 parser.add_argument("--seed", type=int, default=0)
 parser.add_argument("--gpu", type=int, default=0)
