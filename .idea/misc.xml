@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Black">
-    <option name="sdkName" value="Remote Python 3.8.18 (sftp://jihan@192.168.10.208:22/home/jihan/miniconda3/envs/ssl-predictor/bin/python)" />
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.8.18 (sftp://jihan@192.168.10.208:22/home/jihan/miniconda3/envs/ssl-predictor/bin/python) (2)" project-jdk-type="Python SDK" />
-</project>
